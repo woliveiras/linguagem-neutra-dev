@@ -27,6 +27,7 @@ Conhece algum material que possa servir como referência para nossos estudos sob
 | Professor de Programação | Pessoa instrutora de programação |
 | Developer, Desenvolvedor | Pessoa desenvolvedora de software | 
 | Membros da equipe | A equipe |
+| Os caras de engenharia | A galera de engenharia |
 
 ## Referências
 
