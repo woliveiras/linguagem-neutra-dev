@@ -12,7 +12,9 @@ Neste documento eu estou reunindo termos que posso utilizar para tratar do uso d
 
 Ex.: Ao invés de traduzir termos do inglês ou outro idioma sem gênero para o masculino em Português do Brasil (onde o gênero masculino é utilizado para adoção do neutro em frases) procuramos utilizar os sinônimos ou o termo que mais incluir o máximo de pessoas.
 
-Caso conheça algum termo que possa ser inserido no glossário, por favor abra uma issue ou envie um pull request no repositório [@woliveiras/linguagem-neutra-dev](https://github.com/woliveiras/linguagem-neutra-dev)
+Caso conheça algum termo que possa ser inserido no glossário, por favor abra uma issue ou envie um pull request no repositório [@woliveiras/linguagem-neutra-dev](https://github.com/woliveiras/linguagem-neutra-dev).
+
+Conhece algum material que possa servir como referência para nossos estudos sobre o assunto? Compartilha através de uma issue ou pull request no repositório [@woliveiras/linguagem-neutra-dev](https://github.com/woliveiras/linguagem-neutra-dev).
 
 ## Glossário
 
