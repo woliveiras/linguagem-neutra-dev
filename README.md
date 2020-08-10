@@ -4,7 +4,7 @@
 
 Há algum tempo procuro utilizar a linguagem neutra em meus [artigos](http://woliveiras.com.br/), [livros](https://www.casadocodigo.com.br/search?type=product&q=william+oliveira), [vídeos](https://www.youtube.com/channel/UCpfj7hUnNu4NcIqmusFdp5Q) e em conversas no geral sobre desenvolvimento de software.
 
-A socialização nos faz acreditar, por conta do uso da linguagem no masculino, que alguns cargos, algumas profissões, alguns locais não devem ser frequentados por todas as pessoas. Utilizarmos linguagem neutra nos ajuda a reeducar a nossa mente para que esse viés inconsciênte não nos tanto e ainda ajude outras pessoas a se sentirem realmente incluidas nos espaços.
+A socialização nos faz acreditar, por conta do uso da linguagem no masculino, que alguns cargos, algumas profissões, alguns locais não devem ser frequentados por todas as pessoas. Utilizarmos linguagem neutra nos ajuda a reeducar a nossa mente para que esse viés inconsciente não nos tanto e ainda ajude outras pessoas a se sentirem realmente incluídas nos espaços.
 
 Termos como “elxs, el@s, todxs, tod@s, meninxs, menin@s” não funciona muito bem, pois as ferramentas de leitura de tela se confundem ao cair em uma sentença assim.
 
@@ -37,3 +37,4 @@ Conhece algum material que possa servir como referência para nossos estudos sob
 - [Manual para o uso não sexista da linguagem, Observatorio de Genero](http://www.observatoriodegenero.gov.br/menu/publicacoes/outros-artigos-e-publicacoes/manual-para-o-uso-nao-sexista-da-linguagem)
 - [Linguagem Neutra, por Rita Von Hunty e Elle Brasil](https://www.youtube.com/watch?v=WAzsxxMMlIM)
 - [Nem todo Homem é Machista?, Tese Onze](https://www.youtube.com/watch?v=MdoJnJTEj88)
+
