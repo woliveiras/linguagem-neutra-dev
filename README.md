@@ -2,6 +2,8 @@
 
 > Glossário de termos da área de desenvolvimento de software com linguagem neutra
 
+![Imagem de Capa do projeto, duas pessoas programando, cada uma em uma lateral da imagem, o fundo está colorido com a tonalidade roxa, no meio temos um dizer "{ Linguagem Neutra Dev }" e a chamada para ação "Dá para incluir mais pessoas utilizando a palavra certa"](./linguagem-neutra-dev.png)
+
 Há algum tempo procuro utilizar a linguagem neutra em meus [artigos](http://woliveiras.com.br/), [livros](https://www.casadocodigo.com.br/search?type=product&q=william+oliveira), [vídeos](https://www.youtube.com/channel/UCpfj7hUnNu4NcIqmusFdp5Q) e em conversas no geral sobre desenvolvimento de software.
 
 A socialização nos faz acreditar, por conta do uso da linguagem no masculino, que alguns cargos, algumas profissões, alguns locais não devem ser frequentados por todas as pessoas. Utilizarmos linguagem neutra nos ajuda a reeducar a nossa mente para que esse viés inconsciente não nos tanto e ainda ajude outras pessoas a se sentirem realmente incluídas nos espaços.
