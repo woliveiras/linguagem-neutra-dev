@@ -16,18 +16,22 @@ Caso conheça algum termo que possa ser inserido no glossário, por favor abra u
 
 Conhece algum material que possa servir como referência para nossos estudos sobre o assunto? Compartilha através de uma issue ou pull request no repositório [@woliveiras/linguagem-neutra-dev](https://github.com/woliveiras/linguagem-neutra-dev).
 
+
 ## Glossário
 
 | Termo Técnico | Utilização Neutra | 
 | -- | -- |
 | Developer Tools | Ferramentas de Desenvolvimento |
 | Master Branch | Main, Principal Branch |
-| Aluno de Programação | Estudante de Programação |
-| Professor de Programação | 
+| Aluno de Programação | Estudante de programação |
+| Professor de Programação | Pessoa instrutora de programação |
+| Developer, Desenvolvedor | Pessoa desenvolvedora de software | 
+| Membros da equipe | A equipe |
 
 ## Referências
 
 - [Adotando a linguagem neutra de gênero, por ThoughtWorks Brasil](https://medium.com/coragem/adotando-a-linguagem-neutra-de-g%C3%AAnero-e509e6e4e06c)
-- [Linguagem neutra de gêneros gramaticais](https://pt.wikipedia.org/wiki/Linguagem_neutra_de_g%C3%AAneros_gramaticais)
+- [Linguagem neutra de gêneros gramaticais, Wikipedia](https://pt.wikipedia.org/wiki/Linguagem_neutra_de_g%C3%AAneros_gramaticais)
+- [Linguagem Neutra de gênero: o que é e como aplicar, rockcontent](https://comunidade.rockcontent.com/linguagem-neutra-de-genero/)
 - [Linguagem Neutra, por Rita Von Hunty e Elle Brasil](https://www.youtube.com/watch?v=WAzsxxMMlIM)
 - [Nem todo Homem é Machista?, Tese Onze](https://www.youtube.com/watch?v=MdoJnJTEj88)
