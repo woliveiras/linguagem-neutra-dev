@@ -34,5 +34,6 @@ Conhece algum material que possa servir como referência para nossos estudos sob
 - [Adotando a linguagem neutra de gênero, por ThoughtWorks Brasil](https://medium.com/coragem/adotando-a-linguagem-neutra-de-g%C3%AAnero-e509e6e4e06c)
 - [Linguagem neutra de gêneros gramaticais, Wikipedia](https://pt.wikipedia.org/wiki/Linguagem_neutra_de_g%C3%AAneros_gramaticais)
 - [Linguagem Neutra de gênero: o que é e como aplicar, rockcontent](https://comunidade.rockcontent.com/linguagem-neutra-de-genero/)
+- [Manual para o uso não sexista da linguagem, Observatorio de Genero](http://www.observatoriodegenero.gov.br/menu/publicacoes/outros-artigos-e-publicacoes/manual-para-o-uso-nao-sexista-da-linguagem)
 - [Linguagem Neutra, por Rita Von Hunty e Elle Brasil](https://www.youtube.com/watch?v=WAzsxxMMlIM)
 - [Nem todo Homem é Machista?, Tese Onze](https://www.youtube.com/watch?v=MdoJnJTEj88)
