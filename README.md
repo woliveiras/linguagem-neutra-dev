@@ -39,4 +39,5 @@ Conhece algum material que possa servir como referência para nossos estudos sob
 - [Manual para o uso não sexista da linguagem, Observatorio de Genero](http://www.observatoriodegenero.gov.br/menu/publicacoes/outros-artigos-e-publicacoes/manual-para-o-uso-nao-sexista-da-linguagem)
 - [Linguagem Neutra, por Rita Von Hunty e Elle Brasil](https://www.youtube.com/watch?v=WAzsxxMMlIM)
 - [Nem todo Homem é Machista?, Tese Onze](https://www.youtube.com/watch?v=MdoJnJTEj88)
-
+-  [O USO DA LINGUAGEM NEUTRA COMO VISIBILIDADE E INCLUSÃO PARA PESSOAS TRANS NÃO-BINÁRIAS NA LÍNGUA PORTUGUESA: A VOZ “DEL@S” OU “DELXS”? NÃO! A VOZ “DELUS”! por Héliton Diego Lau - Universidade Federal do Paraná ](http://www.sies.uem.br/trabalhos/2017/3112.pdf)
+- [Uma língua neutra como meio de inclusão social por Jorge Salhani](https://www2.faac.unesp.br/blog/obsmidia/2015/03/30/uma-lingua-neutra-como-meio-de-inclusao-social/)
