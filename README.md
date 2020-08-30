@@ -21,15 +21,20 @@ Conhece algum material que possa servir como referência para nossos estudos sob
 
 ## Glossário
 
-| Termo Técnico | Utilização Neutra | 
+| Termo | Utilização Neutra | 
 | -- | -- |
 | Developer Tools | Ferramentas de Desenvolvimento |
-| Master Branch | Main, Principal Branch |
 | Aluno de Programação | Estudante de programação |
 | Professor de Programação | Pessoa instrutora de programação |
 | Developer, Desenvolvedor | Pessoa desenvolvedora de software | 
 | Membros da equipe | A equipe |
 | Os caras de engenharia | A galera de engenharia |
+
+| Termo Técnico | Utilização Neutra | 
+| -- | -- |
+| Master Branch | Main, Principal Branch |
+| Blacklist | DenyList, Blocklist |
+| Whitelist | Allowlist |
 
 ## Referências
 
