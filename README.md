@@ -21,7 +21,7 @@ Conhece algum material que possa servir como referência para nossos estudos sob
 
 ## Glossário
 
-| Termo | Utilização Neutra | 
+| Expressão | Utilização Neutra | 
 | -- | -- |
 | Developer Tools | Ferramentas de Desenvolvimento |
 | Aluno de Programação | Estudante de programação |
