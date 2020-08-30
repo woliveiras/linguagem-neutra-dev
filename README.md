@@ -47,5 +47,6 @@ Conhece algum material que possa servir como referência para nossos estudos sob
 -  [O USO DA LINGUAGEM NEUTRA COMO VISIBILIDADE E INCLUSÃO PARA PESSOAS TRANS NÃO-BINÁRIAS NA LÍNGUA PORTUGUESA: A VOZ “DEL@S” OU “DELXS”? NÃO! A VOZ “DELUS”! por Héliton Diego Lau - Universidade Federal do Paraná ](http://www.sies.uem.br/trabalhos/2017/3112.pdf)
 - [Uma língua neutra como meio de inclusão social por Jorge Salhani](https://www2.faac.unesp.br/blog/obsmidia/2015/03/30/uma-lingua-neutra-como-meio-de-inclusao-social/)
 
+### Referências Técnicas
 
 - [Removendo o termo Master de seu projeto no GitHub](https://goiabada.blog/removendo-o-termo-master-de-seu-projeto-no-github-c753ea89718e)
