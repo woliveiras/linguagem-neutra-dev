@@ -21,15 +21,20 @@ Conhece algum material que possa servir como referência para nossos estudos sob
 
 ## Glossário
 
-| Termo Técnico | Utilização Neutra | 
+| Expressão | Utilização Neutra | 
 | -- | -- |
 | Developer Tools | Ferramentas de Desenvolvimento |
-| Master Branch | Main, Principal Branch |
 | Aluno de Programação | Estudante de programação |
 | Professor de Programação | Pessoa instrutora de programação |
 | Developer, Desenvolvedor | Pessoa desenvolvedora de software | 
 | Membros da equipe | A equipe |
 | Os caras de engenharia | A galera de engenharia |
+
+| Termo Técnico | Utilização Neutra | 
+| -- | -- |
+| Master Branch | Main, Principal Branch |
+| Blacklist | DenyList, Blocklist |
+| Whitelist | Allowlist |
 
 ## Referências
 
@@ -41,3 +46,7 @@ Conhece algum material que possa servir como referência para nossos estudos sob
 - [Nem todo Homem é Machista?, Tese Onze](https://www.youtube.com/watch?v=MdoJnJTEj88)
 -  [O USO DA LINGUAGEM NEUTRA COMO VISIBILIDADE E INCLUSÃO PARA PESSOAS TRANS NÃO-BINÁRIAS NA LÍNGUA PORTUGUESA: A VOZ “DEL@S” OU “DELXS”? NÃO! A VOZ “DELUS”! por Héliton Diego Lau - Universidade Federal do Paraná ](http://www.sies.uem.br/trabalhos/2017/3112.pdf)
 - [Uma língua neutra como meio de inclusão social por Jorge Salhani](https://www2.faac.unesp.br/blog/obsmidia/2015/03/30/uma-lingua-neutra-como-meio-de-inclusao-social/)
+
+### Referências Técnicas
+
+- [Removendo o termo Master de seu projeto no GitHub](https://goiabada.blog/removendo-o-termo-master-de-seu-projeto-no-github-c753ea89718e)
